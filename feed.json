@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "YanChunShan",
+    "description": "",
+    "home_page_url": "https://YanChunShan.github.io/website",
+    "feed_url": "https://YanChunShan.github.io/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "YanChunShan"
+    },
+    "items": [
+    ]
+}
