@@ -10,19 +10,36 @@
     },
     "items": [
         {
-            "id": "https://YanChunShan.github.io/website/title.html",
-            "url": "https://YanChunShan.github.io/website/title.html",
-            "title": "title",
-            "summary": "write something",
-            "content_html": "write something",
-            "image": "https://YanChunShan.github.io/website/media/posts/1/coopr.jpg",
+            "id": "https://YanChunShan.github.io/website/gong-si-jian-jie.html",
+            "url": "https://YanChunShan.github.io/website/gong-si-jian-jie.html",
+            "title": "About YanChunShan",
+            "summary": "岩春山經銷國內外廠牌之制音地墊材料，可因應個案，配合預算需求指定規格材料，並有專業工班團隊，可以負責一條龍施工。地墊經過多道塗料黏合，施工塗料不會水解，也不會產生澎共。施工工法經上市建商及公部門共同勘驗合格。",
+            "content_html": "<div dir=\"ltr\"><span style=\"color: #4c76a2; font-family: 'bookman old style', 'new york', times, serif; font-size: x-large;\">岩春山經銷國內外廠牌之制音地墊材料，可因應個案，</span><span style=\"color: #4c76a2; font-family: 'bookman old style', 'new york', times, serif; font-size: x-large;\"><wbr>配合預算需求指定規格材料，並有專業工班團隊，<wbr>可以負責一條龍施工。</span></div>\n<div dir=\"ltr\"><span style=\"color: #4c76a2; font-family: 'bookman old style', 'new york', times, serif; font-size: x-large;\">地墊經過多道塗料黏合，施工塗料不會水解，也不會產生澎共。</span></div>\n<div dir=\"ltr\"><span style=\"color: #4c76a2; font-family: 'bookman old style', 'new york', times, serif; font-size: x-large;\">施工工法經上市建商及公部門共同勘驗合格。</span></div>",
+            "image": "https://YanChunShan.github.io/website/media/posts/2/coopr.jpg",
             "author": {
                 "name": "YanChunShan"
             },
             "tags": [
+                   "公司簡介"
+            ],
+            "date_published": "2020-03-16T19:21:07+08:00",
+            "date_modified": "2020-03-16T19:29:12+08:00"
+        },
+        {
+            "id": "https://YanChunShan.github.io/website/title.html",
+            "url": "https://YanChunShan.github.io/website/title.html",
+            "title": " Contact",
+            "summary": "email: cat20ay@yahoo.com.tw",
+            "content_html": "email: cat20ay@yahoo.com.tw",
+            "image": "https://YanChunShan.github.io/website/media/posts/1/coop5.jpg",
+            "author": {
+                "name": "YanChunShan"
+            },
+            "tags": [
+                   "聯絡方式"
             ],
             "date_published": "2020-03-16T16:52:31+08:00",
-            "date_modified": "2020-03-16T16:52:31+08:00"
+            "date_modified": "2020-03-16T19:26:02+08:00"
         }
     ]
 }
