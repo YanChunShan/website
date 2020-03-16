@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>岩春山</title>
+    <title>YanChunShan</title>
     <link href="https://YanChunShan.github.io/website/feed.xml" rel="self" />
     <link href="https://YanChunShan.github.io/website" />
-    <updated>2020-03-16T19:46:07+08:00</updated>
+    <updated>2020-03-16T20:00:00+08:00</updated>
     <author>
         <name>YanChunShan</name>
     </author>
@@ -16,19 +16,20 @@
         </author>
         <link href="https://YanChunShan.github.io/website/gong-si-jian-jie.html"/>
         <id>https://YanChunShan.github.io/website/gong-si-jian-jie.html</id>
-            <category term="公司簡介"/>
+            <category term="岩春山公司簡介"/>
 
-        <updated>2020-03-16T19:29:12+08:00</updated>
+        <updated>2020-03-16T19:55:16+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://YanChunShan.github.io/website/media/posts/2/coopr.jpg" alt="" />
-                    岩春山經銷國內外廠牌之制音地墊材料，可因應個案，配合預算需求指定規格材料，並有專業工班團隊，可以負責一條龍施工。地墊經過多道塗料黏合，施工塗料不會水解，也不會產生澎共。施工工法經上市建商及公部門共同勘驗合格。
+                    岩春山企業有限公司岩春山經銷國內外廠牌之制音地墊材料，可因應個案，配合預算需求指定規格材料，並有專業工班團隊，可以負責一條龍施工。地墊經過多道塗料黏合，施工塗料不會水解，也不會產生澎共。施工工法經上市建商及公部門共同勘驗合格。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://YanChunShan.github.io/website/media/posts/2/coopr.jpg" alt="" />
-                <div dir="ltr"><span style="color: #4c76a2; font-family: 'bookman old style', 'new york', times, serif; font-size: x-large;">岩春山經銷國內外廠牌之制音地墊材料，可因應個案，</span><span style="color: #4c76a2; font-family: 'bookman old style', 'new york', times, serif; font-size: x-large;"><wbr>配合預算需求指定規格材料，並有專業工班團隊，<wbr>可以負責一條龍施工。</span></div>
+                <div dir="ltr">岩春山企業有限公司</div>
+<div dir="ltr"><span style="color: #4c76a2; font-family: 'bookman old style', 'new york', times, serif; font-size: x-large;">岩春山經銷國內外廠牌之制音地墊材料，可因應個案，</span><span style="color: #4c76a2; font-family: 'bookman old style', 'new york', times, serif; font-size: x-large;"><wbr>配合預算需求指定規格材料，並有專業工班團隊，<wbr>可以負責一條龍施工。</span></div>
 <div dir="ltr"><span style="color: #4c76a2; font-family: 'bookman old style', 'new york', times, serif; font-size: x-large;">地墊經過多道塗料黏合，施工塗料不會水解，也不會產生澎共。</span></div>
 <div dir="ltr"><span style="color: #4c76a2; font-family: 'bookman old style', 'new york', times, serif; font-size: x-large;">施工工法經上市建商及公部門共同勘驗合格。</span></div>
             ]]>
@@ -43,17 +44,18 @@
         <id>https://YanChunShan.github.io/website/title.html</id>
             <category term="聯絡方式"/>
 
-        <updated>2020-03-16T19:26:02+08:00</updated>
+        <updated>2020-03-16T19:55:21+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://YanChunShan.github.io/website/media/posts/1/coop5.jpg" alt="" />
-                    email: cat20ay@yahoo.com.tw
+                    岩春山企業有限公司 email:cat20ay@yahoo.com.tw
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://YanChunShan.github.io/website/media/posts/1/coop5.jpg" alt="" />
-                email: cat20ay@yahoo.com.tw
+                <p>岩春山企業有限公司</p>
+<p>email:cat20ay@yahoo.com.tw</p>
             ]]>
         </content>
     </entry>
