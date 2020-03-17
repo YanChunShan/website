@@ -30,8 +30,8 @@
             "id": "https://YanChunShan.github.io/website/title.html",
             "url": "https://YanChunShan.github.io/website/title.html",
             "title": " Contact",
-            "summary": "岩春山企業有限公司 email:cat20ay@yahoo.com.tw",
-            "content_html": "<p>岩春山企業有限公司</p>\n<p>email:cat20ay@yahoo.com.tw</p>",
+            "summary": "岩春山企業有限公司 有任何相關問題，歡迎來信洽詢 cat20ay@yahoo.com.tw",
+            "content_html": "<p>岩春山企業有限公司</p>\n<p>有任何相關問題，歡迎來信洽詢</p>\n<p>cat20ay@yahoo.com.tw</p>",
             "image": "https://YanChunShan.github.io/website/media/posts/1/coop5.jpg",
             "author": {
                 "name": "YanChunShan"
@@ -40,7 +40,7 @@
                    "聯絡方式"
             ],
             "date_published": "2020-03-16T16:52:31+08:00",
-            "date_modified": "2020-03-16T19:55:21+08:00"
+            "date_modified": "2020-03-17T14:38:59+08:00"
         }
     ]
 }
