@@ -3,7 +3,7 @@
     <title>YanChunShan</title>
     <link href="https://YanChunShan.github.io/website/feed.xml" rel="self" />
     <link href="https://YanChunShan.github.io/website" />
-    <updated>2020-03-18T14:34:06+08:00</updated>
+    <updated>2020-03-18T14:42:07+08:00</updated>
     <author>
         <name>YanChunShan</name>
     </author>
@@ -71,19 +71,21 @@
         <id>https://YanChunShan.github.io/website/title.html</id>
             <category term="聯絡方式"/>
 
-        <updated>2020-03-17T14:38:59+08:00</updated>
+        <updated>2020-03-18T14:37:21+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://YanChunShan.github.io/website/media/posts/1/coop5.jpg" alt="" />
-                    岩春山企業有限公司 有任何相關問題，歡迎來信洽詢 cat20ay@yahoo.com.tw
+                    岩春山企業有限公司 有任何相關問題，歡迎來信洽詢 cat20ay@yahoo.com.tw 岩春山企業有限公司統一編號：85071336 地址：桃園市莊二街39號
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://YanChunShan.github.io/website/media/posts/1/coop5.jpg" alt="" />
-                <p>岩春山企業有限公司</p>
-<p>有任何相關問題，歡迎來信洽詢</p>
-<p>cat20ay@yahoo.com.tw</p>
+                <p><span style="color: #2a2e30;"><span style="font-family: 標楷體, cursive;"><span style="font-size: x-large;">岩春山企業有限公司</span></span></span></p>
+<p><span style="color: #2a2e30;"><span style="font-family: 標楷體, cursive;"><span style="font-size: x-large;">有任何相關問題，歡迎來信洽詢</span></span></span></p>
+<p><span style="font-size: medium;"><span lang="en-US"><a href="mailto:cat20ay@yahoo.com.tw"><span style="color: #2a2e30;"><span style="font-family: 標楷體, cursive;"><span style="font-size: x-large;"><span style="font-family: 'Liberation Serif', serif;">cat20ay@yahoo.com.tw</span></span></span></span></a></span></span></p>
+<p><span style="color: #2a2e30;"><span style="font-family: 標楷體, cursive;"><span style="font-size: x-large;">岩春山企業有限公司統一編號：</span></span><span style="font-family: 標楷體, cursive;"><span style="font-size: x-large;"><span lang="en-US">85071336</span></span></span></span></p>
+<p><span style="color: #2a2e30;"><span style="font-family: 標楷體, cursive;"><span style="font-size: x-large;">地址：桃園市莊二街</span></span><span style="font-family: 標楷體, cursive;"><span style="font-size: x-large;"><span lang="en-US">39</span></span></span><span style="font-family: 標楷體, cursive;"><span style="font-size: x-large;">號</span></span></span></p>
             ]]>
         </content>
     </entry>
