@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: yanchunshan.github.io/website/sitemap.xml
